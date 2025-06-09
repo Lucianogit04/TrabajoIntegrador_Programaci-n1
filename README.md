@@ -14,7 +14,7 @@ Fecha de entrega: 09/06/2025
 ## Integrantes del equipo
 
 - **Contreras Luciano Demián** – lucianocontrerasestudio04@gmail.com  
-- **Leandro Agustín Gatti**
+- **Leandro Agustín Gatti** - gattiagustin9@gmail.com
 
 ---
 
