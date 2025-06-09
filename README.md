@@ -1,6 +1,6 @@
 # TrabajoIntegrador_Programaci-n1
 
-# 🌳 Trabajo Práctico Integrador – Árboles Binarios en Python
+# Trabajo Práctico Integrador – Árboles Binarios en Python
 
 ## Título del trabajo
 **Datos avanzados (Árbol en Python)**  
