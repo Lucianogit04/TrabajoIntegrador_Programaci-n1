@@ -3,7 +3,7 @@
 # Trabajo Práctico Integrador – Árboles Binarios en Python
 
 ## Título del trabajo
-**Datos avanzados (Árbol en Python)**  
+**Datos avanzados (Árbol Binario en Python)**  
 Materia: Programación I  
 Profesor/a: Julieta Trapé  
 Tutor: Miguel Barrera Oltra  
